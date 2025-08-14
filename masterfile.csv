@@ -1,0 +1,5 @@
+Experiment,Fix_seed,Time_per_day,Service_level,Avg_num_parcels,supply-demand_ratio,crowd_reward,prof_cost,policy,capacitated,compute_shadows,num_replications,box capacity,topology,Time_gran
+1,TRUE,14,3,20000,0.5,1.5,10,3,TRUE,TRUE,1,55,m2m_b,60
+2,TRUE,14,3,20000,2,1.5,10,3,TRUE,TRUE,1,10,m2m_u,60
+3,TRUE,14,3,20000,0.5,1.5,10,3,TRUE,TRUE,1,10,f2m_b,60
+169,,14,3,20000,0.5,1.5,10,3,TRUE,TRUE,10,25,m2m_b,60

@@ -1,0 +1,625 @@
+Hauptbahnhof;Hauptbahnhof;0
+Hauptbahnhof;Sendlinger Tor;838.5174424
+Hauptbahnhof;Giesing;4611.913781
+Hauptbahnhof;Scheidplatz;3766.840187
+Hauptbahnhof;Theresienstrasse;1400.483371
+Hauptbahnhof;Munchner Freiheit;3624.157386
+Hauptbahnhof;Studentenstadt;6499.385122
+Hauptbahnhof;Arabellapark;6116.743666
+Hauptbahnhof;Karlsplatz;357.5066802
+Hauptbahnhof;Heimeranplatz;2391.018731
+Hauptbahnhof;Ostbahnhof;3983.571587
+Hauptbahnhof;Innsbrucker Ring;5045.895258
+Hauptbahnhof;Neuperlach Zentrum;8530.640408
+Hauptbahnhof;Laim;4439.554728
+Hauptbahnhof;Pasing;7683.271433
+Hauptbahnhof;Olympia Einkaufszentrum;6387.34087
+Hauptbahnhof;Harras;4204.995076
+Hauptbahnhof;Milbertshofen;4909.071391
+Hauptbahnhof;Feldmoching;10397.74585
+Hauptbahnhof;Rotkreuzplatz;3079.908953
+Hauptbahnhof;Obersendling;5973.443045
+Hauptbahnhof;Trudering;8675.153134
+Hauptbahnhof;Westpark;5771.314701
+Hauptbahnhof;Klinikum Grosshadern;9799.96135
+Hauptbahnhof;Mangfallplatz;5799.572374
+Sendlinger Tor;Hauptbahnhof;838.5174424
+Sendlinger Tor;Sendlinger Tor;0
+Sendlinger Tor;Giesing;3775.940998
+Sendlinger Tor;Scheidplatz;4605.357044
+Sendlinger Tor;Theresienstrasse;2239.000228
+Sendlinger Tor;Munchner Freiheit;3678.850476
+Sendlinger Tor;Studentenstadt;6554.078212
+Sendlinger Tor;Arabellapark;6171.436756
+Sendlinger Tor;Karlsplatz;1196.023537
+Sendlinger Tor;Heimeranplatz;3229.535588
+Sendlinger Tor;Ostbahnhof;3616.455032
+Sendlinger Tor;Innsbrucker Ring;4678.778703
+Sendlinger Tor;Neuperlach Zentrum;8163.523853
+Sendlinger Tor;Laim;5278.071585
+Sendlinger Tor;Pasing;8521.78829
+Sendlinger Tor;Olympia Einkaufszentrum;7225.857727
+Sendlinger Tor;Harras;3369.022293
+Sendlinger Tor;Milbertshofen;5747.588248
+Sendlinger Tor;Feldmoching;11236.26271
+Sendlinger Tor;Rotkreuzplatz;3918.42581
+Sendlinger Tor;Obersendling;5137.470262
+Sendlinger Tor;Trudering;8308.036579
+Sendlinger Tor;Westpark;4935.341919
+Sendlinger Tor;Klinikum Grosshadern;8963.988567
+Sendlinger Tor;Mangfallplatz;4963.599592
+Giesing;Hauptbahnhof;4611.913781
+Giesing;Sendlinger Tor;3775.940998
+Giesing;Giesing;0
+Giesing;Scheidplatz;8378.753382
+Giesing;Theresienstrasse;6012.396566
+Giesing;Munchner Freiheit;7332.190653
+Giesing;Studentenstadt;10207.41839
+Giesing;Arabellapark;6402.900792
+Giesing;Karlsplatz;4969.419875
+Giesing;Heimeranplatz;7002.931926
+Giesing;Ostbahnhof;2220.215261
+Giesing;Innsbrucker Ring;2140.24893
+Giesing;Neuperlach Zentrum;5626.345109
+Giesing;Laim;9051.467924
+Giesing;Pasing;12295.18463
+Giesing;Olympia Einkaufszentrum;10999.25406
+Giesing;Harras;7142.418632
+Giesing;Milbertshofen;9520.984586
+Giesing;Feldmoching;15009.65905
+Giesing;Rotkreuzplatz;7691.822148
+Giesing;Obersendling;8910.8666
+Giesing;Trudering;5770.857835
+Giesing;Westpark;8708.738257
+Giesing;Klinikum Grosshadern;12737.38491
+Giesing;Mangfallplatz;4830.560071
+Scheidplatz;Hauptbahnhof;3766.840187
+Scheidplatz;Sendlinger Tor;4605.357044
+Scheidplatz;Giesing;8378.753382
+Scheidplatz;Scheidplatz;0
+Scheidplatz;Theresienstrasse;2366.356816
+Scheidplatz;Munchner Freiheit;1727.87866
+Scheidplatz;Studentenstadt;4603.106396
+Scheidplatz;Arabellapark;8658.546103
+Scheidplatz;Karlsplatz;4124.346281
+Scheidplatz;Heimeranplatz;6157.858332
+Scheidplatz;Ostbahnhof;6837.39594
+Scheidplatz;Innsbrucker Ring;8444.465469
+Scheidplatz;Neuperlach Zentrum;11929.21062
+Scheidplatz;Laim;8206.39433
+Scheidplatz;Pasing;11450.11103
+Scheidplatz;Olympia Einkaufszentrum;10154.18047
+Scheidplatz;Harras;7971.834677
+Scheidplatz;Milbertshofen;1144.675512
+Scheidplatz;Feldmoching;6633.349975
+Scheidplatz;Rotkreuzplatz;6846.748554
+Scheidplatz;Obersendling;9740.282646
+Scheidplatz;Trudering;12073.72334
+Scheidplatz;Westpark;9538.154302
+Scheidplatz;Klinikum Grosshadern;13566.80095
+Scheidplatz;Mangfallplatz;9566.411975
+Theresienstrasse;Hauptbahnhof;1400.483371
+Theresienstrasse;Sendlinger Tor;2239.000228
+Theresienstrasse;Giesing;6012.396566
+Theresienstrasse;Scheidplatz;2366.356816
+Theresienstrasse;Theresienstrasse;0
+Theresienstrasse;Munchner Freiheit;4091.791167
+Theresienstrasse;Studentenstadt;6967.018903
+Theresienstrasse;Arabellapark;7517.226452
+Theresienstrasse;Karlsplatz;1757.989466
+Theresienstrasse;Heimeranplatz;3791.501516
+Theresienstrasse;Ostbahnhof;5384.054372
+Theresienstrasse;Innsbrucker Ring;6446.378044
+Theresienstrasse;Neuperlach Zentrum;9931.123193
+Theresienstrasse;Laim;5840.037514
+Theresienstrasse;Pasing;9083.754219
+Theresienstrasse;Olympia Einkaufszentrum;7787.823655
+Theresienstrasse;Harras;5605.477862
+Theresienstrasse;Milbertshofen;3508.588019
+Theresienstrasse;Feldmoching;8997.262482
+Theresienstrasse;Rotkreuzplatz;4480.391739
+Theresienstrasse;Obersendling;7373.92583
+Theresienstrasse;Trudering;10075.63592
+Theresienstrasse;Westpark;7171.797487
+Theresienstrasse;Klinikum Grosshadern;11200.44414
+Theresienstrasse;Mangfallplatz;7200.05516
+Munchner Freiheit;Hauptbahnhof;3624.157386
+Munchner Freiheit;Sendlinger Tor;3678.850476
+Munchner Freiheit;Giesing;7332.190653
+Munchner Freiheit;Scheidplatz;1727.87866
+Munchner Freiheit;Theresienstrasse;4091.791167
+Munchner Freiheit;Munchner Freiheit;0
+Munchner Freiheit;Studentenstadt;2877.685847
+Munchner Freiheit;Arabellapark;6933.125554
+Munchner Freiheit;Karlsplatz;3266.650706
+Munchner Freiheit;Heimeranplatz;6015.175531
+Munchner Freiheit;Ostbahnhof;5111.975392
+Munchner Freiheit;Innsbrucker Ring;6719.04492
+Munchner Freiheit;Neuperlach Zentrum;10203.79007
+Munchner Freiheit;Laim;8063.711529
+Munchner Freiheit;Pasing;11307.42823
+Munchner Freiheit;Olympia Einkaufszentrum;10011.49767
+Munchner Freiheit;Harras;7047.87277
+Munchner Freiheit;Milbertshofen;2870.109864
+Munchner Freiheit;Feldmoching;8358.784326
+Munchner Freiheit;Rotkreuzplatz;6704.065753
+Munchner Freiheit;Obersendling;8816.320739
+Munchner Freiheit;Trudering;10348.3028
+Munchner Freiheit;Westpark;8614.192395
+Munchner Freiheit;Klinikum Grosshadern;12642.83904
+Munchner Freiheit;Mangfallplatz;8642.450068
+Studentenstadt;Hauptbahnhof;6499.385122
+Studentenstadt;Sendlinger Tor;6554.078212
+Studentenstadt;Giesing;10207.41839
+Studentenstadt;Scheidplatz;4603.106396
+Studentenstadt;Theresienstrasse;6967.018903
+Studentenstadt;Munchner Freiheit;2877.685847
+Studentenstadt;Studentenstadt;0
+Studentenstadt;Arabellapark;9808.35329
+Studentenstadt;Karlsplatz;6141.878441
+Studentenstadt;Heimeranplatz;8890.403267
+Studentenstadt;Ostbahnhof;7987.203128
+Studentenstadt;Innsbrucker Ring;9594.272656
+Studentenstadt;Neuperlach Zentrum;13079.01781
+Studentenstadt;Laim;10938.93926
+Studentenstadt;Pasing;14182.65597
+Studentenstadt;Olympia Einkaufszentrum;12886.72541
+Studentenstadt;Harras;9923.100506
+Studentenstadt;Milbertshofen;5745.3376
+Studentenstadt;Feldmoching;11234.01206
+Studentenstadt;Rotkreuzplatz;9579.293489
+Studentenstadt;Obersendling;11691.54847
+Studentenstadt;Trudering;13223.53053
+Studentenstadt;Westpark;11489.42013
+Studentenstadt;Klinikum Grosshadern;15518.06678
+Studentenstadt;Mangfallplatz;11517.6778
+Arabellapark;Hauptbahnhof;6116.743666
+Arabellapark;Sendlinger Tor;6171.436756
+Arabellapark;Giesing;6402.900792
+Arabellapark;Scheidplatz;8658.546103
+Arabellapark;Theresienstrasse;7517.226452
+Arabellapark;Munchner Freiheit;6933.125554
+Arabellapark;Studentenstadt;9808.35329
+Arabellapark;Arabellapark;0
+Arabellapark;Karlsplatz;5759.236986
+Arabellapark;Heimeranplatz;8507.761811
+Arabellapark;Ostbahnhof;4182.685531
+Arabellapark;Innsbrucker Ring;5789.75506
+Arabellapark;Neuperlach Zentrum;9274.500209
+Arabellapark;Laim;10556.29781
+Arabellapark;Pasing;13800.01451
+Arabellapark;Olympia Einkaufszentrum;12504.08395
+Arabellapark;Harras;9540.45905
+Arabellapark;Milbertshofen;9800.777306
+Arabellapark;Feldmoching;15289.45177
+Arabellapark;Rotkreuzplatz;9196.652034
+Arabellapark;Obersendling;11308.90702
+Arabellapark;Trudering;9419.012935
+Arabellapark;Westpark;11106.77868
+Arabellapark;Klinikum Grosshadern;15135.42532
+Arabellapark;Mangfallplatz;11135.03635
+Karlsplatz;Hauptbahnhof;357.5066802
+Karlsplatz;Sendlinger Tor;1196.023537
+Karlsplatz;Giesing;4969.419875
+Karlsplatz;Scheidplatz;4124.346281
+Karlsplatz;Theresienstrasse;1757.989466
+Karlsplatz;Munchner Freiheit;3266.650706
+Karlsplatz;Studentenstadt;6141.878441
+Karlsplatz;Arabellapark;5759.236986
+Karlsplatz;Karlsplatz;0
+Karlsplatz;Heimeranplatz;2748.524826
+Karlsplatz;Ostbahnhof;3626.064906
+Karlsplatz;Innsbrucker Ring;4688.388578
+Karlsplatz;Neuperlach Zentrum;8173.133727
+Karlsplatz;Laim;4797.060823
+Karlsplatz;Pasing;8040.777528
+Karlsplatz;Olympia Einkaufszentrum;6744.846964
+Karlsplatz;Harras;4562.501171
+Karlsplatz;Milbertshofen;5266.577485
+Karlsplatz;Feldmoching;10755.25195
+Karlsplatz;Rotkreuzplatz;3437.415048
+Karlsplatz;Obersendling;6330.949139
+Karlsplatz;Trudering;8317.646453
+Karlsplatz;Westpark;6128.820796
+Karlsplatz;Klinikum Grosshadern;10157.46744
+Karlsplatz;Mangfallplatz;6157.078469
+Heimeranplatz;Hauptbahnhof;2391.018731
+Heimeranplatz;Sendlinger Tor;3229.535588
+Heimeranplatz;Giesing;7002.931926
+Heimeranplatz;Scheidplatz;6157.858332
+Heimeranplatz;Theresienstrasse;3791.501516
+Heimeranplatz;Munchner Freiheit;6015.175531
+Heimeranplatz;Studentenstadt;8890.403267
+Heimeranplatz;Arabellapark;8507.761811
+Heimeranplatz;Karlsplatz;2748.524826
+Heimeranplatz;Heimeranplatz;0
+Heimeranplatz;Ostbahnhof;6374.589732
+Heimeranplatz;Innsbrucker Ring;7436.913403
+Heimeranplatz;Neuperlach Zentrum;10921.65855
+Heimeranplatz;Laim;6830.572874
+Heimeranplatz;Pasing;10074.28958
+Heimeranplatz;Olympia Einkaufszentrum;8778.359015
+Heimeranplatz;Harras;6596.013221
+Heimeranplatz;Milbertshofen;7300.089536
+Heimeranplatz;Feldmoching;12788.764
+Heimeranplatz;Rotkreuzplatz;5470.927098
+Heimeranplatz;Obersendling;8364.46119
+Heimeranplatz;Trudering;11066.17128
+Heimeranplatz;Westpark;8162.332846
+Heimeranplatz;Klinikum Grosshadern;12190.97949
+Heimeranplatz;Mangfallplatz;8190.590519
+Ostbahnhof;Hauptbahnhof;3983.571587
+Ostbahnhof;Sendlinger Tor;3616.455032
+Ostbahnhof;Giesing;2220.215261
+Ostbahnhof;Scheidplatz;6837.39594
+Ostbahnhof;Theresienstrasse;5384.054372
+Ostbahnhof;Munchner Freiheit;5111.975392
+Ostbahnhof;Studentenstadt;7987.203128
+Ostbahnhof;Arabellapark;4182.685531
+Ostbahnhof;Karlsplatz;3626.064906
+Ostbahnhof;Heimeranplatz;6374.589732
+Ostbahnhof;Ostbahnhof;0
+Ostbahnhof;Innsbrucker Ring;1607.069529
+Ostbahnhof;Neuperlach Zentrum;5091.814678
+Ostbahnhof;Laim;8423.12573
+Ostbahnhof;Pasing;11666.84243
+Ostbahnhof;Olympia Einkaufszentrum;10370.91187
+Ostbahnhof;Harras;6985.477325
+Ostbahnhof;Milbertshofen;7979.627144
+Ostbahnhof;Feldmoching;13468.30161
+Ostbahnhof;Rotkreuzplatz;7063.479954
+Ostbahnhof;Obersendling;8753.925294
+Ostbahnhof;Trudering;5236.327404
+Ostbahnhof;Westpark;8551.796951
+Ostbahnhof;Klinikum Grosshadern;12580.4436
+Ostbahnhof;Mangfallplatz;7050.775333
+Innsbrucker Ring;Hauptbahnhof;5045.895258
+Innsbrucker Ring;Sendlinger Tor;4678.778703
+Innsbrucker Ring;Giesing;2140.24893
+Innsbrucker Ring;Scheidplatz;8444.465469
+Innsbrucker Ring;Theresienstrasse;6446.378044
+Innsbrucker Ring;Munchner Freiheit;6719.04492
+Innsbrucker Ring;Studentenstadt;9594.272656
+Innsbrucker Ring;Arabellapark;5789.75506
+Innsbrucker Ring;Karlsplatz;4688.388578
+Innsbrucker Ring;Heimeranplatz;7436.913403
+Innsbrucker Ring;Ostbahnhof;1607.069529
+Innsbrucker Ring;Innsbrucker Ring;0
+Innsbrucker Ring;Neuperlach Zentrum;3486.096179
+Innsbrucker Ring;Laim;9485.449401
+Innsbrucker Ring;Pasing;12729.16611
+Innsbrucker Ring;Olympia Einkaufszentrum;11433.23554
+Innsbrucker Ring;Harras;8047.800997
+Innsbrucker Ring;Milbertshofen;9586.696673
+Innsbrucker Ring;Feldmoching;15075.37114
+Innsbrucker Ring;Rotkreuzplatz;8125.803626
+Innsbrucker Ring;Obersendling;9816.248966
+Innsbrucker Ring;Trudering;3630.608905
+Innsbrucker Ring;Westpark;9614.120622
+Innsbrucker Ring;Klinikum Grosshadern;13642.76727
+Innsbrucker Ring;Mangfallplatz;6970.809002
+Neuperlach Zentrum;Hauptbahnhof;8530.640408
+Neuperlach Zentrum;Sendlinger Tor;8163.523853
+Neuperlach Zentrum;Giesing;5626.345109
+Neuperlach Zentrum;Scheidplatz;11929.21062
+Neuperlach Zentrum;Theresienstrasse;9931.123193
+Neuperlach Zentrum;Munchner Freiheit;10203.79007
+Neuperlach Zentrum;Studentenstadt;13079.01781
+Neuperlach Zentrum;Arabellapark;9274.500209
+Neuperlach Zentrum;Karlsplatz;8173.133727
+Neuperlach Zentrum;Heimeranplatz;10921.65855
+Neuperlach Zentrum;Ostbahnhof;5091.814678
+Neuperlach Zentrum;Innsbrucker Ring;3486.096179
+Neuperlach Zentrum;Neuperlach Zentrum;0
+Neuperlach Zentrum;Laim;12970.19455
+Neuperlach Zentrum;Pasing;16213.91126
+Neuperlach Zentrum;Olympia Einkaufszentrum;14917.98069
+Neuperlach Zentrum;Harras;11532.54615
+Neuperlach Zentrum;Milbertshofen;13071.44182
+Neuperlach Zentrum;Feldmoching;18560.11628
+Neuperlach Zentrum;Rotkreuzplatz;11610.54878
+Neuperlach Zentrum;Obersendling;13300.99412
+Neuperlach Zentrum;Trudering;7115.354054
+Neuperlach Zentrum;Westpark;13098.86577
+Neuperlach Zentrum;Klinikum Grosshadern;17127.51242
+Neuperlach Zentrum;Mangfallplatz;10456.90518
+Laim;Hauptbahnhof;4439.554728
+Laim;Sendlinger Tor;5278.071585
+Laim;Giesing;9051.467924
+Laim;Scheidplatz;8206.39433
+Laim;Theresienstrasse;5840.037514
+Laim;Munchner Freiheit;8063.711529
+Laim;Studentenstadt;10938.93926
+Laim;Arabellapark;10556.29781
+Laim;Karlsplatz;4797.060823
+Laim;Heimeranplatz;6830.572874
+Laim;Ostbahnhof;8423.12573
+Laim;Innsbrucker Ring;9485.449401
+Laim;Neuperlach Zentrum;12970.19455
+Laim;Laim;0
+Laim;Pasing;3243.716705
+Laim;Olympia Einkaufszentrum;10826.89501
+Laim;Harras;8644.549219
+Laim;Milbertshofen;9348.625533
+Laim;Feldmoching;14837.3
+Laim;Rotkreuzplatz;7519.463096
+Laim;Obersendling;10412.99719
+Laim;Trudering;13114.70728
+Laim;Westpark;10210.86884
+Laim;Klinikum Grosshadern;14239.51549
+Laim;Mangfallplatz;10239.12652
+Pasing;Hauptbahnhof;7683.271433
+Pasing;Sendlinger Tor;8521.78829
+Pasing;Giesing;12295.18463
+Pasing;Scheidplatz;11450.11103
+Pasing;Theresienstrasse;9083.754219
+Pasing;Munchner Freiheit;11307.42823
+Pasing;Studentenstadt;14182.65597
+Pasing;Arabellapark;13800.01451
+Pasing;Karlsplatz;8040.777528
+Pasing;Heimeranplatz;10074.28958
+Pasing;Ostbahnhof;11666.84243
+Pasing;Innsbrucker Ring;12729.16611
+Pasing;Neuperlach Zentrum;16213.91126
+Pasing;Laim;3243.716705
+Pasing;Pasing;0
+Pasing;Olympia Einkaufszentrum;14070.61172
+Pasing;Harras;11888.26592
+Pasing;Milbertshofen;12592.34224
+Pasing;Feldmoching;18081.0167
+Pasing;Rotkreuzplatz;10763.1798
+Pasing;Obersendling;13656.71389
+Pasing;Trudering;16358.42398
+Pasing;Westpark;13454.58555
+Pasing;Klinikum Grosshadern;17483.2322
+Pasing;Mangfallplatz;13482.84322
+Olympia Einkaufszentrum;Hauptbahnhof;6387.34087
+Olympia Einkaufszentrum;Sendlinger Tor;7225.857727
+Olympia Einkaufszentrum;Giesing;10999.25406
+Olympia Einkaufszentrum;Scheidplatz;10154.18047
+Olympia Einkaufszentrum;Theresienstrasse;7787.823655
+Olympia Einkaufszentrum;Munchner Freiheit;10011.49767
+Olympia Einkaufszentrum;Studentenstadt;12886.72541
+Olympia Einkaufszentrum;Arabellapark;12504.08395
+Olympia Einkaufszentrum;Karlsplatz;6744.846964
+Olympia Einkaufszentrum;Heimeranplatz;8778.359015
+Olympia Einkaufszentrum;Ostbahnhof;10370.91187
+Olympia Einkaufszentrum;Innsbrucker Ring;11433.23554
+Olympia Einkaufszentrum;Neuperlach Zentrum;14917.98069
+Olympia Einkaufszentrum;Laim;10826.89501
+Olympia Einkaufszentrum;Pasing;14070.61172
+Olympia Einkaufszentrum;Olympia Einkaufszentrum;0
+Olympia Einkaufszentrum;Harras;10592.33536
+Olympia Einkaufszentrum;Milbertshofen;11296.41167
+Olympia Einkaufszentrum;Feldmoching;16785.08614
+Olympia Einkaufszentrum;Rotkreuzplatz;3307.431917
+Olympia Einkaufszentrum;Obersendling;12360.78333
+Olympia Einkaufszentrum;Trudering;15062.49342
+Olympia Einkaufszentrum;Westpark;12158.65499
+Olympia Einkaufszentrum;Klinikum Grosshadern;16187.30163
+Olympia Einkaufszentrum;Mangfallplatz;12186.91266
+Harras;Hauptbahnhof;4204.995076
+Harras;Sendlinger Tor;3369.022293
+Harras;Giesing;7142.418632
+Harras;Scheidplatz;7971.834677
+Harras;Theresienstrasse;5605.477862
+Harras;Munchner Freiheit;7047.87277
+Harras;Studentenstadt;9923.100506
+Harras;Arabellapark;9540.45905
+Harras;Karlsplatz;4562.501171
+Harras;Heimeranplatz;6596.013221
+Harras;Ostbahnhof;6985.477325
+Harras;Innsbrucker Ring;8047.800997
+Harras;Neuperlach Zentrum;11532.54615
+Harras;Laim;8644.549219
+Harras;Pasing;11888.26592
+Harras;Olympia Einkaufszentrum;10592.33536
+Harras;Harras;0
+Harras;Milbertshofen;9114.065881
+Harras;Feldmoching;14602.74034
+Harras;Rotkreuzplatz;7284.903444
+Harras;Obersendling;4198.405989
+Harras;Trudering;11677.05887
+Harras;Westpark;1566.319625
+Harras;Klinikum Grosshadern;5594.966274
+Harras;Mangfallplatz;8330.077225
+Milbertshofen;Hauptbahnhof;4909.071391
+Milbertshofen;Sendlinger Tor;5747.588248
+Milbertshofen;Giesing;9520.984586
+Milbertshofen;Scheidplatz;1144.675512
+Milbertshofen;Theresienstrasse;3508.588019
+Milbertshofen;Munchner Freiheit;2870.109864
+Milbertshofen;Studentenstadt;5745.3376
+Milbertshofen;Arabellapark;9800.777306
+Milbertshofen;Karlsplatz;5266.577485
+Milbertshofen;Heimeranplatz;7300.089536
+Milbertshofen;Ostbahnhof;7979.627144
+Milbertshofen;Innsbrucker Ring;9586.696673
+Milbertshofen;Neuperlach Zentrum;13071.44182
+Milbertshofen;Laim;9348.625533
+Milbertshofen;Pasing;12592.34224
+Milbertshofen;Olympia Einkaufszentrum;11296.41167
+Milbertshofen;Harras;9114.065881
+Milbertshofen;Milbertshofen;0
+Milbertshofen;Feldmoching;5488.674462
+Milbertshofen;Rotkreuzplatz;7988.979758
+Milbertshofen;Obersendling;10882.51385
+Milbertshofen;Trudering;13215.95455
+Milbertshofen;Westpark;10680.38551
+Milbertshofen;Klinikum Grosshadern;14709.03215
+Milbertshofen;Mangfallplatz;10708.64318
+Feldmoching;Hauptbahnhof;10397.74585
+Feldmoching;Sendlinger Tor;11236.26271
+Feldmoching;Giesing;15009.65905
+Feldmoching;Scheidplatz;6633.349975
+Feldmoching;Theresienstrasse;8997.262482
+Feldmoching;Munchner Freiheit;8358.784326
+Feldmoching;Studentenstadt;11234.01206
+Feldmoching;Arabellapark;15289.45177
+Feldmoching;Karlsplatz;10755.25195
+Feldmoching;Heimeranplatz;12788.764
+Feldmoching;Ostbahnhof;13468.30161
+Feldmoching;Innsbrucker Ring;15075.37114
+Feldmoching;Neuperlach Zentrum;18560.11628
+Feldmoching;Laim;14837.3
+Feldmoching;Pasing;18081.0167
+Feldmoching;Olympia Einkaufszentrum;16785.08614
+Feldmoching;Harras;14602.74034
+Feldmoching;Milbertshofen;5488.674462
+Feldmoching;Feldmoching;0
+Feldmoching;Rotkreuzplatz;13477.65422
+Feldmoching;Obersendling;16371.18831
+Feldmoching;Trudering;18704.62901
+Feldmoching;Westpark;16169.05997
+Feldmoching;Klinikum Grosshadern;20197.70662
+Feldmoching;Mangfallplatz;16197.31764
+Rotkreuzplatz;Hauptbahnhof;3079.908953
+Rotkreuzplatz;Sendlinger Tor;3918.42581
+Rotkreuzplatz;Giesing;7691.822148
+Rotkreuzplatz;Scheidplatz;6846.748554
+Rotkreuzplatz;Theresienstrasse;4480.391739
+Rotkreuzplatz;Munchner Freiheit;6704.065753
+Rotkreuzplatz;Studentenstadt;9579.293489
+Rotkreuzplatz;Arabellapark;9196.652034
+Rotkreuzplatz;Karlsplatz;3437.415048
+Rotkreuzplatz;Heimeranplatz;5470.927098
+Rotkreuzplatz;Ostbahnhof;7063.479954
+Rotkreuzplatz;Innsbrucker Ring;8125.803626
+Rotkreuzplatz;Neuperlach Zentrum;11610.54878
+Rotkreuzplatz;Laim;7519.463096
+Rotkreuzplatz;Pasing;10763.1798
+Rotkreuzplatz;Olympia Einkaufszentrum;3307.431917
+Rotkreuzplatz;Harras;7284.903444
+Rotkreuzplatz;Milbertshofen;7988.979758
+Rotkreuzplatz;Feldmoching;13477.65422
+Rotkreuzplatz;Rotkreuzplatz;0
+Rotkreuzplatz;Obersendling;9053.351412
+Rotkreuzplatz;Trudering;11755.0615
+Rotkreuzplatz;Westpark;8851.223069
+Rotkreuzplatz;Klinikum Grosshadern;12879.86972
+Rotkreuzplatz;Mangfallplatz;8879.480742
+Obersendling;Hauptbahnhof;5973.443045
+Obersendling;Sendlinger Tor;5137.470262
+Obersendling;Giesing;8910.8666
+Obersendling;Scheidplatz;9740.282646
+Obersendling;Theresienstrasse;7373.92583
+Obersendling;Munchner Freiheit;8816.320739
+Obersendling;Studentenstadt;11691.54847
+Obersendling;Arabellapark;11308.90702
+Obersendling;Karlsplatz;6330.949139
+Obersendling;Heimeranplatz;8364.46119
+Obersendling;Ostbahnhof;8753.925294
+Obersendling;Innsbrucker Ring;9816.248966
+Obersendling;Neuperlach Zentrum;13300.99412
+Obersendling;Laim;10412.99719
+Obersendling;Pasing;13656.71389
+Obersendling;Olympia Einkaufszentrum;12360.78333
+Obersendling;Harras;4198.405989
+Obersendling;Milbertshofen;10882.51385
+Obersendling;Feldmoching;16371.18831
+Obersendling;Rotkreuzplatz;9053.351412
+Obersendling;Obersendling;0
+Obersendling;Trudering;13445.50684
+Obersendling;Westpark;5764.725615
+Obersendling;Klinikum Grosshadern;9793.372263
+Obersendling;Mangfallplatz;10098.52519
+Trudering;Hauptbahnhof;8675.153134
+Trudering;Sendlinger Tor;8308.036579
+Trudering;Giesing;5770.857835
+Trudering;Scheidplatz;12073.72334
+Trudering;Theresienstrasse;10075.63592
+Trudering;Munchner Freiheit;10348.3028
+Trudering;Studentenstadt;13223.53053
+Trudering;Arabellapark;9419.012935
+Trudering;Karlsplatz;8317.646453
+Trudering;Heimeranplatz;11066.17128
+Trudering;Ostbahnhof;5236.327404
+Trudering;Innsbrucker Ring;3630.608905
+Trudering;Neuperlach Zentrum;7115.354054
+Trudering;Laim;13114.70728
+Trudering;Pasing;16358.42398
+Trudering;Olympia Einkaufszentrum;15062.49342
+Trudering;Harras;11677.05887
+Trudering;Milbertshofen;13215.95455
+Trudering;Feldmoching;18704.62901
+Trudering;Rotkreuzplatz;11755.0615
+Trudering;Obersendling;13445.50684
+Trudering;Trudering;0
+Trudering;Westpark;13243.3785
+Trudering;Klinikum Grosshadern;17272.02515
+Trudering;Mangfallplatz;10601.41791
+Westpark;Hauptbahnhof;5771.314701
+Westpark;Sendlinger Tor;4935.341919
+Westpark;Giesing;8708.738257
+Westpark;Scheidplatz;9538.154302
+Westpark;Theresienstrasse;7171.797487
+Westpark;Munchner Freiheit;8614.192395
+Westpark;Studentenstadt;11489.42013
+Westpark;Arabellapark;11106.77868
+Westpark;Karlsplatz;6128.820796
+Westpark;Heimeranplatz;8162.332846
+Westpark;Ostbahnhof;8551.796951
+Westpark;Innsbrucker Ring;9614.120622
+Westpark;Neuperlach Zentrum;13098.86577
+Westpark;Laim;10210.86884
+Westpark;Pasing;13454.58555
+Westpark;Olympia Einkaufszentrum;12158.65499
+Westpark;Harras;1566.319625
+Westpark;Milbertshofen;10680.38551
+Westpark;Feldmoching;16169.05997
+Westpark;Rotkreuzplatz;8851.223069
+Westpark;Obersendling;5764.725615
+Westpark;Trudering;13243.3785
+Westpark;Westpark;0
+Westpark;Klinikum Grosshadern;4028.646649
+Westpark;Mangfallplatz;9896.39685
+Klinikum Grosshadern;Hauptbahnhof;9799.96135
+Klinikum Grosshadern;Sendlinger Tor;8963.988567
+Klinikum Grosshadern;Giesing;12737.38491
+Klinikum Grosshadern;Scheidplatz;13566.80095
+Klinikum Grosshadern;Theresienstrasse;11200.44414
+Klinikum Grosshadern;Munchner Freiheit;12642.83904
+Klinikum Grosshadern;Studentenstadt;15518.06678
+Klinikum Grosshadern;Arabellapark;15135.42532
+Klinikum Grosshadern;Karlsplatz;10157.46744
+Klinikum Grosshadern;Heimeranplatz;12190.97949
+Klinikum Grosshadern;Ostbahnhof;12580.4436
+Klinikum Grosshadern;Innsbrucker Ring;13642.76727
+Klinikum Grosshadern;Neuperlach Zentrum;17127.51242
+Klinikum Grosshadern;Laim;14239.51549
+Klinikum Grosshadern;Pasing;17483.2322
+Klinikum Grosshadern;Olympia Einkaufszentrum;16187.30163
+Klinikum Grosshadern;Harras;5594.966274
+Klinikum Grosshadern;Milbertshofen;14709.03215
+Klinikum Grosshadern;Feldmoching;20197.70662
+Klinikum Grosshadern;Rotkreuzplatz;12879.86972
+Klinikum Grosshadern;Obersendling;9793.372263
+Klinikum Grosshadern;Trudering;17272.02515
+Klinikum Grosshadern;Westpark;4028.646649
+Klinikum Grosshadern;Klinikum Grosshadern;0
+Klinikum Grosshadern;Mangfallplatz;13925.0435
+Mangfallplatz;Hauptbahnhof;5799.572374
+Mangfallplatz;Sendlinger Tor;4963.599592
+Mangfallplatz;Giesing;4830.560071
+Mangfallplatz;Scheidplatz;9566.411975
+Mangfallplatz;Theresienstrasse;7200.05516
+Mangfallplatz;Munchner Freiheit;8642.450068
+Mangfallplatz;Studentenstadt;11517.6778
+Mangfallplatz;Arabellapark;11135.03635
+Mangfallplatz;Karlsplatz;6157.078469
+Mangfallplatz;Heimeranplatz;8190.590519
+Mangfallplatz;Ostbahnhof;7050.775333
+Mangfallplatz;Innsbrucker Ring;6970.809002
+Mangfallplatz;Neuperlach Zentrum;10456.90518
+Mangfallplatz;Laim;10239.12652
+Mangfallplatz;Pasing;13482.84322
+Mangfallplatz;Olympia Einkaufszentrum;12186.91266
+Mangfallplatz;Harras;8330.077225
+Mangfallplatz;Milbertshofen;10708.64318
+Mangfallplatz;Feldmoching;16197.31764
+Mangfallplatz;Rotkreuzplatz;8879.480742
+Mangfallplatz;Obersendling;10098.52519
+Mangfallplatz;Trudering;10601.41791
+Mangfallplatz;Westpark;9896.39685
+Mangfallplatz;Klinikum Grosshadern;13925.0435
+Mangfallplatz;Mangfallplatz;0

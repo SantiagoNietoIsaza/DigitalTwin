@@ -1,0 +1,296 @@
+"('Hauptbahnhof', 'Karlsplatz')",1.299736592163307
+"('Hauptbahnhof', 'Ostbahnhof')",0.08119794831399635
+"('Hauptbahnhof', 'Neuperlach Zentrum')",0.21918970709971514
+"('Hauptbahnhof', 'Laim')",0.662124447483299
+"('Hauptbahnhof', 'Harras')",2.1051744274397852
+"('Hauptbahnhof', 'Milbertshofen')",0.22159616719084937
+"('Hauptbahnhof', 'Klinikum Grosshadern')",0.11786914429308644
+"('Sendlinger Tor', 'Scheidplatz')",2.778013279140616
+"('Sendlinger Tor', 'Theresienstrasse')",0.06906458973350456
+"('Sendlinger Tor', 'Munchner Freiheit')",0.20721040385225392
+"('Sendlinger Tor', 'Studentenstadt')",0.11344447316198654
+"('Sendlinger Tor', 'Laim')",2.9895422734262693
+"('Sendlinger Tor', 'Pasing')",2.5756315706251343
+"('Sendlinger Tor', 'Olympia Einkaufszentrum')",0.12923660958570898
+"('Sendlinger Tor', 'Harras')",2.8270332535504727
+"('Sendlinger Tor', 'Westpark')",0.36424008911871725
+"('Giesing', 'Sendlinger Tor')",2.701230504371326
+"('Giesing', 'Scheidplatz')",2.963075491567297
+"('Giesing', 'Theresienstrasse')",0.8073467137351867
+"('Giesing', 'Munchner Freiheit')",0.2904370526817066
+"('Giesing', 'Studentenstadt')",1.546675090402832
+"('Giesing', 'Arabellapark')",0.4162293906872252
+"('Giesing', 'Karlsplatz')",1.2966100614131564
+"('Giesing', 'Heimeranplatz')",1.201036635485587
+"('Giesing', 'Ostbahnhof')",2.4299980484754946
+"('Giesing', 'Innsbrucker Ring')",0.16894479749314006
+"('Giesing', 'Neuperlach Zentrum')",1.5980117109115053
+"('Giesing', 'Pasing')",1.8824232056351815
+"('Giesing', 'Olympia Einkaufszentrum')",2.4423442736175707
+"('Giesing', 'Harras')",1.77694331406747
+"('Giesing', 'Milbertshofen')",1.9898823930727183
+"('Giesing', 'Feldmoching')",0.5514502773199929
+"('Giesing', 'Rotkreuzplatz')",0.6684674405453531
+"('Giesing', 'Obersendling')",2.9951206086177047
+"('Giesing', 'Trudering')",2.9366375362016415
+"('Giesing', 'Klinikum Grosshadern')",1.1398824774598644
+"('Scheidplatz', 'Munchner Freiheit')",0.18617008819616232
+"('Scheidplatz', 'Harras')",0.9200142324706646
+"('Scheidplatz', 'Milbertshofen')",0.06650401050773333
+"('Theresienstrasse', 'Hauptbahnhof')",2.562096693911407
+"('Theresienstrasse', 'Heimeranplatz')",2.758566691028682
+"('Theresienstrasse', 'Ostbahnhof')",0.13731002127837125
+"('Theresienstrasse', 'Pasing')",2.868488923304643
+"('Munchner Freiheit', 'Hauptbahnhof')",2.8845646981116353
+"('Munchner Freiheit', 'Sendlinger Tor')",1.5117196292093897
+"('Munchner Freiheit', 'Studentenstadt')",2.0130086737120676
+"('Munchner Freiheit', 'Arabellapark')",0.14250607996555864
+"('Munchner Freiheit', 'Karlsplatz')",1.4507808726480993
+"('Munchner Freiheit', 'Ostbahnhof')",1.082475027689012
+"('Munchner Freiheit', 'Innsbrucker Ring')",0.5526230794237008
+"('Munchner Freiheit', 'Laim')",1.58032755780346
+"('Munchner Freiheit', 'Pasing')",0.2892354805346237
+"('Munchner Freiheit', 'Olympia Einkaufszentrum')",1.6905352874099557
+"('Munchner Freiheit', 'Harras')",2.477026730573755
+"('Munchner Freiheit', 'Feldmoching')",1.1254679091483961
+"('Munchner Freiheit', 'Rotkreuzplatz')",1.1496528608486976
+"('Munchner Freiheit', 'Obersendling')",1.4626263713482786
+"('Munchner Freiheit', 'Trudering')",2.777939739275495
+"('Munchner Freiheit', 'Westpark')",2.3847391353893714
+"('Munchner Freiheit', 'Klinikum Grosshadern')",2.3366650581761985
+"('Studentenstadt', 'Sendlinger Tor')",1.3609391469226813
+"('Studentenstadt', 'Giesing')",0.8946380652800527
+"('Studentenstadt', 'Scheidplatz')",1.9153718520254677
+"('Studentenstadt', 'Theresienstrasse')",2.650777632978099
+"('Studentenstadt', 'Munchner Freiheit')",2.5543302214301495
+"('Studentenstadt', 'Arabellapark')",1.5713212544734605
+"('Studentenstadt', 'Heimeranplatz')",1.43323126172809
+"('Studentenstadt', 'Ostbahnhof')",2.6819750995501854
+"('Studentenstadt', 'Neuperlach Zentrum')",1.8595190248169113
+"('Studentenstadt', 'Pasing')",1.73249014613015
+"('Studentenstadt', 'Olympia Einkaufszentrum')",1.3139129597276977
+"('Studentenstadt', 'Harras')",0.5769966564557919
+"('Studentenstadt', 'Milbertshofen')",1.259967751772908
+"('Studentenstadt', 'Feldmoching')",2.4335015299157448
+"('Studentenstadt', 'Obersendling')",2.8344387963091586
+"('Studentenstadt', 'Klinikum Grosshadern')",1.4438620108285096
+"('Studentenstadt', 'Mangfallplatz')",0.39191602764404543
+"('Arabellapark', 'Hauptbahnhof')",2.141868959182732
+"('Arabellapark', 'Sendlinger Tor')",2.6202075640934033
+"('Arabellapark', 'Giesing')",2.5773704198974086
+"('Arabellapark', 'Theresienstrasse')",2.5922573117117707
+"('Arabellapark', 'Munchner Freiheit')",1.5172424911907691
+"('Arabellapark', 'Studentenstadt')",2.2453237291531125
+"('Arabellapark', 'Karlsplatz')",1.8450927656537968
+"('Arabellapark', 'Heimeranplatz')",2.1212826742872606
+"('Arabellapark', 'Ostbahnhof')",0.9671210608463001
+"('Arabellapark', 'Innsbrucker Ring')",0.43889516235986004
+"('Arabellapark', 'Neuperlach Zentrum')",2.345329823597648
+"('Arabellapark', 'Laim')",2.79516211229188
+"('Arabellapark', 'Pasing')",1.439341842472898
+"('Arabellapark', 'Olympia Einkaufszentrum')",2.769723048420962
+"('Arabellapark', 'Milbertshofen')",2.0249413084017682
+"('Arabellapark', 'Feldmoching')",0.40176147532950374
+"('Arabellapark', 'Rotkreuzplatz')",0.15594921850280163
+"('Arabellapark', 'Obersendling')",1.6712280251495903
+"('Arabellapark', 'Trudering')",0.29777303831320234
+"('Arabellapark', 'Westpark')",2.6403178874340707
+"('Arabellapark', 'Klinikum Grosshadern')",0.13944372353666315
+"('Arabellapark', 'Mangfallplatz')",0.7372883386374244
+"('Karlsplatz', 'Sendlinger Tor')",0.05660153026033651
+"('Karlsplatz', 'Giesing')",1.5866877062025497
+"('Karlsplatz', 'Pasing')",2.678575279006665
+"('Heimeranplatz', 'Theresienstrasse')",0.11862537163768441
+"('Heimeranplatz', 'Ostbahnhof')",0.1319600327151026
+"('Heimeranplatz', 'Pasing')",0.1516396774601042
+"('Ostbahnhof', 'Hauptbahnhof')",2.4096648751837537
+"('Ostbahnhof', 'Sendlinger Tor')",1.5100073944454053
+"('Ostbahnhof', 'Giesing')",2.503992929517708
+"('Ostbahnhof', 'Scheidplatz')",1.6996446679499386
+"('Ostbahnhof', 'Theresienstrasse')",2.552213707445424
+"('Ostbahnhof', 'Munchner Freiheit')",1.865798602870746
+"('Ostbahnhof', 'Studentenstadt')",1.9408598584086818
+"('Ostbahnhof', 'Arabellapark')",2.0593290095851873
+"('Ostbahnhof', 'Karlsplatz')",2.9875905437025656
+"('Ostbahnhof', 'Neuperlach Zentrum')",1.5318468068364237
+"('Ostbahnhof', 'Laim')",1.161277997783705
+"('Ostbahnhof', 'Pasing')",1.9944313507275568
+"('Ostbahnhof', 'Olympia Einkaufszentrum')",2.657399120617139
+"('Ostbahnhof', 'Harras')",1.964283088945679
+"('Ostbahnhof', 'Milbertshofen')",0.13727501199554182
+"('Ostbahnhof', 'Obersendling')",2.6858041722169945
+"('Ostbahnhof', 'Trudering')",1.0607183058976246
+"('Ostbahnhof', 'Westpark')",1.946436570893957
+"('Ostbahnhof', 'Klinikum Grosshadern')",1.5057203433194377
+"('Innsbrucker Ring', 'Munchner Freiheit')",2.9183207265823814
+"('Innsbrucker Ring', 'Arabellapark')",0.32942428606244173
+"('Innsbrucker Ring', 'Harras')",1.88700011898616
+"('Neuperlach Zentrum', 'Hauptbahnhof')",1.8109767953481233
+"('Neuperlach Zentrum', 'Theresienstrasse')",2.9142530431921974
+"('Neuperlach Zentrum', 'Munchner Freiheit')",2.9395044600763183
+"('Neuperlach Zentrum', 'Studentenstadt')",2.7466192565670466
+"('Neuperlach Zentrum', 'Ostbahnhof')",2.7179498603161907
+"('Neuperlach Zentrum', 'Olympia Einkaufszentrum')",0.14466162392683896
+"('Neuperlach Zentrum', 'Milbertshofen')",0.13247816346582608
+"('Neuperlach Zentrum', 'Klinikum Grosshadern')",0.3381385559765673
+"('Laim', 'Hauptbahnhof')",0.10347813455267685
+"('Laim', 'Sendlinger Tor')",1.80509080072746
+"('Laim', 'Scheidplatz')",1.2888088897055576
+"('Laim', 'Theresienstrasse')",0.8106819202328138
+"('Laim', 'Munchner Freiheit')",1.8072237132657931
+"('Laim', 'Arabellapark')",1.6059886408972026
+"('Laim', 'Karlsplatz')",1.613978904105293
+"('Laim', 'Heimeranplatz')",2.9918868982250943
+"('Laim', 'Ostbahnhof')",1.4979545466220971
+"('Laim', 'Innsbrucker Ring')",2.7415278053685284
+"('Laim', 'Neuperlach Zentrum')",2.886451824143724
+"('Laim', 'Olympia Einkaufszentrum')",1.5667971860571135
+"('Laim', 'Harras')",2.086212141572025
+"('Laim', 'Milbertshofen')",2.190345806339439
+"('Laim', 'Feldmoching')",1.8054886359798963
+"('Laim', 'Rotkreuzplatz')",2.7535154805102566
+"('Laim', 'Obersendling')",1.88736948490573
+"('Laim', 'Westpark')",0.9307968175537521
+"('Laim', 'Klinikum Grosshadern')",1.0355872713749514
+"('Laim', 'Mangfallplatz')",0.27428747277865034
+"('Pasing', 'Hauptbahnhof')",2.2505895323278597
+"('Pasing', 'Sendlinger Tor')",1.0497290191457607
+"('Pasing', 'Giesing')",2.950572794696624
+"('Pasing', 'Theresienstrasse')",1.7002426400750543
+"('Pasing', 'Munchner Freiheit')",2.859163712288447
+"('Pasing', 'Studentenstadt')",1.7167764546229007
+"('Pasing', 'Heimeranplatz')",1.4978643142718027
+"('Pasing', 'Ostbahnhof')",1.7535631796718067
+"('Pasing', 'Innsbrucker Ring')",2.1169187725835314
+"('Pasing', 'Neuperlach Zentrum')",1.8960914888875735
+"('Pasing', 'Laim')",0.3942559529848054
+"('Pasing', 'Olympia Einkaufszentrum')",0.1441971879928258
+"('Pasing', 'Harras')",2.8743413791014696
+"('Pasing', 'Milbertshofen')",1.7927597738418943
+"('Pasing', 'Feldmoching')",0.5725896483131434
+"('Pasing', 'Rotkreuzplatz')",0.7880147614869062
+"('Pasing', 'Obersendling')",1.7114675154657346
+"('Pasing', 'Westpark')",0.5884458298449975
+"('Pasing', 'Klinikum Grosshadern')",2.751526962969057
+"('Pasing', 'Mangfallplatz')",0.1942257826957049
+"('Olympia Einkaufszentrum', 'Hauptbahnhof')",1.6054560749329494
+"('Olympia Einkaufszentrum', 'Sendlinger Tor')",2.5505419489680254
+"('Olympia Einkaufszentrum', 'Munchner Freiheit')",2.64191200760979
+"('Olympia Einkaufszentrum', 'Studentenstadt')",0.421655636048097
+"('Olympia Einkaufszentrum', 'Laim')",2.9097142116478314
+"('Olympia Einkaufszentrum', 'Pasing')",2.4715591519825866
+"('Olympia Einkaufszentrum', 'Harras')",0.33772453513831835
+"('Olympia Einkaufszentrum', 'Trudering')",1.499101215888658
+"('Harras', 'Hauptbahnhof')",0.2879298455340558
+"('Harras', 'Scheidplatz')",2.541831835064472
+"('Harras', 'Theresienstrasse')",2.853105334318868
+"('Harras', 'Arabellapark')",2.601695809356114
+"('Harras', 'Klinikum Grosshadern')",2.460896297523911
+"('Harras', 'Mangfallplatz')",2.955190427216105
+"('Milbertshofen', 'Hauptbahnhof')",2.5491400459128615
+"('Milbertshofen', 'Sendlinger Tor')",1.7897697215993462
+"('Milbertshofen', 'Giesing')",2.561726286540683
+"('Milbertshofen', 'Scheidplatz')",1.933105737425302
+"('Milbertshofen', 'Munchner Freiheit')",2.2338446314404985
+"('Milbertshofen', 'Studentenstadt')",1.5435441583777476
+"('Milbertshofen', 'Arabellapark')",1.7315603350556934
+"('Milbertshofen', 'Karlsplatz')",0.9935429146993915
+"('Milbertshofen', 'Heimeranplatz')",0.0948550762763776
+"('Milbertshofen', 'Ostbahnhof')",0.07329314211416198
+"('Milbertshofen', 'Neuperlach Zentrum')",0.2538056147696855
+"('Milbertshofen', 'Laim')",2.360476208763385
+"('Milbertshofen', 'Pasing')",2.9104917786986197
+"('Milbertshofen', 'Olympia Einkaufszentrum')",0.11261342017706115
+"('Milbertshofen', 'Feldmoching')",2.9027359477425168
+"('Milbertshofen', 'Rotkreuzplatz')",2.9548883508338704
+"('Milbertshofen', 'Obersendling')",0.38319159619703147
+"('Milbertshofen', 'Westpark')",1.9805063831674594
+"('Feldmoching', 'Hauptbahnhof')",1.1601113053264451
+"('Feldmoching', 'Sendlinger Tor')",1.5132674992131012
+"('Feldmoching', 'Giesing')",0.3028592293665838
+"('Feldmoching', 'Scheidplatz')",0.7469350342822585
+"('Feldmoching', 'Munchner Freiheit')",2.6869294100754706
+"('Feldmoching', 'Studentenstadt')",2.6561058377329085
+"('Feldmoching', 'Arabellapark')",2.6768253605648575
+"('Feldmoching', 'Karlsplatz')",1.6521414938618049
+"('Feldmoching', 'Heimeranplatz')",0.9799159529821049
+"('Feldmoching', 'Ostbahnhof')",0.14661813724575565
+"('Feldmoching', 'Innsbrucker Ring')",2.9944249937076046
+"('Feldmoching', 'Neuperlach Zentrum')",1.7324736915427934
+"('Feldmoching', 'Laim')",0.4791479749765476
+"('Feldmoching', 'Olympia Einkaufszentrum')",2.2432506744619007
+"('Feldmoching', 'Rotkreuzplatz')",1.5128525640399928
+"('Feldmoching', 'Obersendling')",0.4213887845593749
+"('Feldmoching', 'Trudering')",2.86072910657372
+"('Feldmoching', 'Westpark')",2.5754028489305907
+"('Feldmoching', 'Mangfallplatz')",2.5076986438278484
+"('Rotkreuzplatz', 'Giesing')",0.1880680097419419
+"('Rotkreuzplatz', 'Theresienstrasse')",2.8654030513752304
+"('Rotkreuzplatz', 'Studentenstadt')",0.16766007508196445
+"('Rotkreuzplatz', 'Laim')",0.8474908520152942
+"('Rotkreuzplatz', 'Feldmoching')",1.583452809162848
+"('Rotkreuzplatz', 'Westpark')",1.4203238224820909
+"('Obersendling', 'Hauptbahnhof')",2.7400503696101284
+"('Obersendling', 'Sendlinger Tor')",0.09340500398531823
+"('Obersendling', 'Scheidplatz')",1.3689771839359235
+"('Obersendling', 'Theresienstrasse')",0.11945756993760559
+"('Obersendling', 'Munchner Freiheit')",0.21428199607437823
+"('Obersendling', 'Studentenstadt')",2.0138540358669896
+"('Obersendling', 'Arabellapark')",0.2115777285838445
+"('Obersendling', 'Karlsplatz')",2.626665411356325
+"('Obersendling', 'Heimeranplatz')",1.9599652592663543
+"('Obersendling', 'Innsbrucker Ring')",1.1327839812492975
+"('Obersendling', 'Neuperlach Zentrum')",1.7026887948605942
+"('Obersendling', 'Laim')",1.7675150603799068
+"('Obersendling', 'Pasing')",1.6312869218161445
+"('Obersendling', 'Harras')",0.5081636648600173
+"('Obersendling', 'Feldmoching')",2.428550771106171
+"('Obersendling', 'Rotkreuzplatz')",2.419803194386109
+"('Obersendling', 'Trudering')",0.5271340828134241
+"('Obersendling', 'Westpark')",1.717374031419041
+"('Obersendling', 'Klinikum Grosshadern')",1.6817142608587214
+"('Obersendling', 'Mangfallplatz')",0.12370596878295453
+"('Trudering', 'Hauptbahnhof')",0.11389835913131252
+"('Trudering', 'Sendlinger Tor')",2.310293816173036
+"('Trudering', 'Munchner Freiheit')",0.11537131646046053
+"('Trudering', 'Studentenstadt')",2.8443820179186146
+"('Trudering', 'Karlsplatz')",2.3920266353252733
+"('Trudering', 'Ostbahnhof')",2.8450392587996056
+"('Trudering', 'Innsbrucker Ring')",2.0664246358812415
+"('Trudering', 'Neuperlach Zentrum')",2.986769433718234
+"('Trudering', 'Olympia Einkaufszentrum')",2.496917667999857
+"('Trudering', 'Harras')",1.6960436771222924
+"('Trudering', 'Milbertshofen')",0.35056317361194606
+"('Trudering', 'Feldmoching')",2.7928923387033935
+"('Trudering', 'Rotkreuzplatz')",0.11795901277994299
+"('Trudering', 'Obersendling')",2.8683820825763875
+"('Trudering', 'Westpark')",0.3158934240426685
+"('Trudering', 'Klinikum Grosshadern')",2.744729610960949
+"('Trudering', 'Mangfallplatz')",1.53509605651388
+"('Westpark', 'Sendlinger Tor')",0.05765667810168901
+"('Westpark', 'Giesing')",0.32305611268268786
+"('Westpark', 'Scheidplatz')",0.5390851154215488
+"('Westpark', 'Theresienstrasse')",1.4816109224222183
+"('Westpark', 'Studentenstadt')",2.944249164609811
+"('Westpark', 'Karlsplatz')",2.6332229662991713
+"('Westpark', 'Heimeranplatz')",2.2244402962269803
+"('Westpark', 'Ostbahnhof')",2.9673126456363703
+"('Westpark', 'Innsbrucker Ring')",0.5982925341777364
+"('Westpark', 'Neuperlach Zentrum')",2.76977859220885
+"('Westpark', 'Pasing')",0.28539498328537666
+"('Westpark', 'Olympia Einkaufszentrum')",0.17085156398703966
+"('Westpark', 'Milbertshofen')",0.09777456489845249
+"('Westpark', 'Feldmoching')",1.361030812418579
+"('Westpark', 'Rotkreuzplatz')",1.8611217379082399
+"('Westpark', 'Obersendling')",1.1003989099566809
+"('Westpark', 'Trudering')",0.43001700807877463
+"('Klinikum Grosshadern', 'Hauptbahnhof')",1.0403403348761782
+"('Klinikum Grosshadern', 'Studentenstadt')",1.1621967783654892
+"('Klinikum Grosshadern', 'Karlsplatz')",0.13299380708994218
+"('Klinikum Grosshadern', 'Heimeranplatz')",2.9821002992720427
+"('Klinikum Grosshadern', 'Ostbahnhof')",0.18736713774261124
+"('Klinikum Grosshadern', 'Neuperlach Zentrum')",0.4014393670628863
+"('Klinikum Grosshadern', 'Pasing')",2.849609581614815
+"('Klinikum Grosshadern', 'Olympia Einkaufszentrum')",0.18848347055318
+"('Klinikum Grosshadern', 'Westpark')",0.03807598122565009
+"('Mangfallplatz', 'Westpark')",2.7717586445204545
