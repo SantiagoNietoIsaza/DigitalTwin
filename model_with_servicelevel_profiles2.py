@@ -1188,8 +1188,10 @@ for exp in range(1,2):
             distance = distance_list[i]
             Distances[distance_tuple] = distance
     
-    
-        
+    if variable_compensation:
+        my_distances = Distances
+    else:
+        my_distances = {key:1.0 for key in Distances.keys()}
     
     # run dynamic program
     if discrete_MDP:
@@ -1204,10 +1206,6 @@ for exp in range(1,2):
             #V_st = {}
             space_time_nodes, space_time_arcs, incoming_nodes, outgoing_nodes = build_space_time_network(
                 physical_nodes=factor_columns[0], physical_connections=list(Distances.keys()), distances=Distances, avg_speed=avg_speed*3600, time_horizon=time_per_day, tau=tau_p)
-            if variable_compensation:
-                my_distances = Distances
-            else:
-                my_distances = {key:1.0 for key in Distances.keys()}
             if non_stationary:
                 dynamic_range = num_per - int(service_level/tau_p)
             else:
